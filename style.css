@@ -127,6 +127,12 @@ h1 button {
   background: #f0faff;
 }
 
+.inner-card-front,
+.inner-card-back p {
+  width: 100%;
+  max-width: 100%;
+}
+
 .inner-card-front {
   transform: rotateX(0deg);
   z-index: 2;
