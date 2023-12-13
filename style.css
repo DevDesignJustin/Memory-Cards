@@ -128,7 +128,7 @@ h1 button {
 }
 
 .inner-card-front,
-.inner-card-back p {
+.inner-card-back {
   width: 100%;
   max-width: 100%;
 }
